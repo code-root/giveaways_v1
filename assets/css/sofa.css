@@ -1,0 +1,26 @@
+
+    * {
+        direction: rtl;
+    }
+
+@media only screen and (max-width: 900px) { 
+            .back {
+        display:none; 
+     }
+    .back2 {
+
+    width: 100%;
+    left: 0%;}
+}
+
+
+            .back {
+    position: absolute;
+    width: 24%;
+    right: 100%; }
+
+    .back2 {
+        position: relative;
+    width: 50%;
+    left: 32%;
+}
